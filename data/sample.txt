@@ -1,0 +1,25 @@
+Acme Corp — Employee Handbook Policy
+Document ID: HR-POL-014 | Effective Date: 1 April 2026 | Version 2.1
+1. Leave Policy
+All full-time employees are entitled to 18 days of paid annual leave per calendar year, credited on 1 January.
+Leave requests must be submitted through the HR portal at least 3 working days in advance and require
+manager approval. Unused annual leave can be carried forward up to a maximum of 5 days into the next
+calendar year; any balance beyond this is forfeited. Employees are additionally entitled to 10 days of paid sick
+leave per year, and a medical certificate is required for sick leave exceeding 2 consecutive days.
+2. Work Hours and Remote Work
+Standard working hours are 9:30 AM to 6:30 PM, Monday to Friday, with a 1-hour lunch break. Employees
+may work remotely up to 2 days per week, subject to manager approval, and must be reachable on company
+communication tools during core hours (11:00 AM to 4:00 PM).
+3. Notice Period and Resignation
+Employees who wish to resign must submit a written notice of resignation with a minimum notice period of 60
+days for confirmed employees and 15 days for employees still in their probation period. The notice period may
+be waived or reduced at the sole discretion of management, subject to a valid business justification.
+4. Reimbursement Policy
+Employees can claim reimbursement for approved business expenses (travel, client meals, internet
+allowance) by submitting receipts through the Finance portal within 30 days of the expense being incurred.
+Claims submitted after 30 days will not be processed. The monthly internet allowance for remote work is
+capped at INR 1,500.
+5. Code of Conduct
+All employees are expected to maintain professional conduct, confidentiality of company and client data, and
+a harassment-free workplace. Violations should be reported to HR via the confidential grievance email at
+hr-grievance@acmecorp.example, and will be investigated within 10 working days of the report being filed.
