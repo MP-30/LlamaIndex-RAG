@@ -41,6 +41,18 @@ def build_index() -> VectorStoreIndex:
     index.storage_context.persist(persist_dir=str(PERSIST_DIR))
     return index
 
+'''
+Recursive Chunking
+from llama_index.core.node_parser import SentenceSplitter
+
+recursive_splitter = SentenceSplitter(
+    chunk_size=512,
+    chunk_overlap=50
+)
+
+index = VectorStoreIndex.from_documents(documents, transformations=[recursive_splitter])
+
+'''
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
